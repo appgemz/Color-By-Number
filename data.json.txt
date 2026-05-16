@@ -1,0 +1,42 @@
+{
+  "dataVersion": 1,
+  "images": [
+  
+    {
+      "category": "Anime",
+      "label": "Arcane",
+      "total": 3
+    },
+	    {
+      "category": "Anime",
+      "label": "Attack On Titan",
+      "total": 3
+    },
+	    {
+      "category": "Anime",
+      "label": "Bey Blade",
+      "total": 2
+    },
+	    {
+      "category": "Anime",
+      "label": "Demon Slayer",
+      "total": 1
+    },
+	    {
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "total": 2
+    },
+	    {
+      "category": "Anime",
+      "label": "Jujutsu Kaisen",
+      "total": 3
+    },
+	    {
+      "category": "Anime",
+      "label": "Naruto",
+      "total": 1
+    }
+	
+  ]
+}
