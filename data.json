@@ -11,12 +11,12 @@
     {
       "category": "Anime",
       "label": "Arcane",
-      "total": 3
+      "total": 1
     },
 	    {
       "category": "Anime",
       "label": "Attack On Titan",
-      "total": 3
+      "total": 2
     },
 	    {
       "category": "Anime",
@@ -31,16 +31,41 @@
 	    {
       "category": "Anime",
       "label": "Dragon Ball",
-      "total": 2
+      "total": 1
     },
 	    {
       "category": "Anime",
       "label": "Jujutsu Kaisen",
-      "total": 3
+      "total": 1
     },
-	    {
+	  {
       "category": "Anime",
       "label": "Naruto",
+      "total": 2
+    },
+	  {
+      "category": "Anime",
+      "label": "Chainsaw Man",
+      "total": 1
+    },
+	  {
+      "category": "Anime",
+      "label": "One Piece",
+      "total": 1
+    },
+	  {
+      "category": "Anime",
+      "label": "One Punch Man",
+      "total": 1
+    },
+	  {
+      "category": "Anime",
+      "label": "Hunter X Hunter",
+      "total": 1
+    },
+	  {
+      "category": "Anime",
+      "label": "Death Note",
       "total": 1
     }
 	
